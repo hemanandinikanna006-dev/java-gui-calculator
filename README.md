@@ -1,7 +1,5 @@
 This is my first GUI based Java Project.
 
-[Use the Calculator](https://hemanandinikanna006-dev.github.io/Java-GUI-Calculator/)
-
 ![Calculator Preview](Screenshot%202026-03-11%20181808.png)
 
 # Version 1
